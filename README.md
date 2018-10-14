@@ -5,7 +5,7 @@
 
 ## Credit
 - [SeqGAN](https://github.com/LantaoYu/SeqGAN) by [Lantao Yu](http://lantaoyu.com/) et al.
-- Ming Xu, Junbo Wang, Hao Darry, Qingzhan Wang, Chen Zhang
+- Ming Xu, Junbo Wang, Hao Darry, Qingzhan Wang, [Chen Zhang](https://genezc.github.io)
 
 ## Requirements
 * **Tensorflow r1.8.0**
