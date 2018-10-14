@@ -4,6 +4,9 @@
 - The purpose of this project is to design a more interesting and brain-like poetry generation system (PGS). Other than previous PGS which requires users to input the topic and rhythm pattern of a poetry, the proposed PGS takes a full consideration of the poetic imagery beauty of Chinese traditional poetry and emulates the motivation arising process of a poet, users input a picture, then the PGS can 'write' a line of verse based on this picture. For the model, we propose some changes based on previous encoder-decoder structure to capture the complex mapping between vision and semantics.
 
 ## Credit
+- [Xiaoice](https://www.msxiaobing.com/) by MICROSOFT
+- [Jiuge(九歌)](https://jiuge.thunlp.cn//) by [THUNLP](nlp.csai.tsinghua.edu.cn/site2/index.php/en
+) Group leaded by [Prof. Maosong Sun](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en/people?id=16)
 - [SeqGAN](https://github.com/LantaoYu/SeqGAN) by [Lantao Yu](http://lantaoyu.com/) et al.
 - Ming Xu, Junbo Wang, Hao Darry, Qingzhan Wang, [Chen Zhang](https://genezc.github.io)
 
